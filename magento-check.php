@@ -1,4 +1,4 @@
-<?
+<?php
 extension_check(array( 
 	'curl',
 	'dom', 
